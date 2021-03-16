@@ -4,5 +4,8 @@ language:
     chapter_name: "Chapter "
 delete_merged_file: true
 rmd_files: [
-  "index.Rmd"
+  "index.Rmd",
+  "chap_1.Rmd",
+  "test_with_r.Rmd"
 ]
+

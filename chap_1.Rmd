@@ -1,0 +1,20 @@
+---
+title: "An automatically deploying ebook"
+author: "Austin J. Ferguson"
+date: "`r Sys.Date()`"
+output: bookdown::gitbook
+documentclass: book
+github-repo: FergusonAJ/bookdown_test
+description: "This is a demo for automatically deploying your bookdown ebook to GitHub pages."
+---
+
+# Example chapter
+
+## This is my test chapter
+
+### Three levels deep
+
+## Another second level
+
+Test!
+:^)
